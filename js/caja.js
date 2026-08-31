@@ -29,7 +29,7 @@ let totalDaviplata = 0;
 
 let totalTransferencia = 0;
 
-let inversionReal = 627300;
+let inversionReal = 630000;
 
 /*=====================================================
                 ABRIR CAJA
